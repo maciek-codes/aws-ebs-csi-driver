@@ -4,17 +4,17 @@ require (
 	github.com/aws/aws-sdk-go v1.40.4
 	github.com/container-storage-interface/spec v1.3.0
 	github.com/elazarl/goproxy v0.0.0-20181111060418-2ce16c963a8a // indirect
-	github.com/golang/mock v1.5.0
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/mock v1.6.0
+	github.com/golang/protobuf v1.5.3
 	github.com/imdario/mergo v0.3.7 // indirect
 	github.com/kubernetes-csi/csi-proxy/client v1.0.1
 	github.com/kubernetes-csi/csi-test v2.0.0+incompatible
 	github.com/kubernetes-csi/external-snapshotter/client/v4 v4.0.0
 	github.com/onsi/ginkgo v1.11.0
 	github.com/onsi/gomega v1.7.1
-	github.com/stretchr/testify v1.6.1
-	golang.org/x/sys v0.0.0-20210423082822-04245dca01da
-	google.golang.org/grpc v1.34.0
+	github.com/stretchr/testify v1.8.3
+	golang.org/x/sys v0.7.0
+	google.golang.org/grpc v1.56.3
 	k8s.io/api v0.21.0
 	k8s.io/apimachinery v0.21.0
 	k8s.io/client-go v1.21.0
